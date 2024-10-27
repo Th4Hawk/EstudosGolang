@@ -40,7 +40,7 @@ func questao2() {
 // Codigo do echo2: gopl.io/ch1/echo2
 // Codigo do echo3: gopl.io/ch1/echo3
 func questao3() {
-
+	
 }
 
 func main() {
